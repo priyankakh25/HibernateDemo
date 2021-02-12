@@ -1,0 +1,5 @@
+Environment.URL=jdbc:mysql://localhost:3306/advDB
+Environment.PASS=root
+Environment.USER=root
+Environment.DRIVER=com.mysql.cj.jdbc.Driver
+Environment.DIALECT=org.hibernate.dialect.MySQL8Dialect
